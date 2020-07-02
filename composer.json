@@ -1,0 +1,27 @@
+{
+    "name": "piciuu/teamspeak-php-framework-for-laravel",
+    "type": "library",
+    "description": "Clone of TS3 PHP Framework 1.1.23 providing the library as composer project and string issues.",
+    "keywords": ["teamspeak3"],
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/piciuu/teamspeak-php-framework-for-laravel",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Sven Paulsen"
+        },
+        {
+            "name": "Frank Kubis",
+            "email": "f.kubis@aranox.de"
+        },
+        {
+            "name": "PiciuU"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "TeamSpeak3\\": "TeamSpeak3/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
