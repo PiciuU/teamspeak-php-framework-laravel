@@ -10,7 +10,7 @@ Usage
 Install via composer:
 
 ```php
-composer require piciuu/teamspeak-framework-php-for-laravel:dev-master
+composer require piciuu/teamspeak-php-framework-for-laravel
 ```
 
 Skip the required_once part of official documentation and replace it with use TeamSpeak3\TeamSpeak3 statement.
